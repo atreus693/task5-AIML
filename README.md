@@ -1,0 +1,2 @@
+This project uses a heart disease dataset to build and evaluate two machine learning models: a **Decision Tree Classifier** and a **Random Forest Classifier**. The goal is to predict whether a patient has heart disease based on medical features such as age, cholesterol, and blood pressure. The data is preprocessed, split into training and test sets, and used to train both models. The performance of each model is measured using accuracy scores and cross-validation. A decision tree is also visualized using `matplotlib` to help understand how the model makes predictions.
+
